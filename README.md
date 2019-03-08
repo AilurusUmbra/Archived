@@ -1,6 +1,7 @@
 # 劉昱劭  ( Yu-Shao, Liu )
-https://bit.ly/ysliucv <br>
-![](https://github.com/AilurusUmbra/Archived/blob/master/entry.png)
+
+<img align="right" width="100" height="100" src="https://github.com/AilurusUmbra/Archived/blob/master/entry.png">
+## entry: https://bit.ly/ysliucv 
 
 ## Education
 交通大學 資訊工程學系 (2015 to 2019)<br>
