@@ -8,7 +8,12 @@
 交通大學 資訊工程學系 (2015 to 2019)<br>
 <!--Bachelor at NCTU CS (2015 to 2019)-->
 
-## Experience
+## Experience 
+ * 2019 Parttime Assistant at [CECNL](https://sites.google.com/view/wei-cecnl) 🆕 [👉Find me!](https://sites.google.com/view/wei-cecnl/people?authuser=0#h.p_DR9G1urEgm8c)
+    * System Admin
+    * EEG-based BCI clinical analysis & model development
+ * 2019 Parttime Internship at NCHC 🆕
+    * 資料不落地、雲端都加密 supervised by 趙逢毅 (August Chao), PhD
  * 2019 Summer Internship at NCHC
  * [2018 Summer Internship](https://drive.google.com/open?id=1tVOgL9xqbFJ2H9iSGo-d4oY9E-20wKqk) at [ITRI](https://www.itri.org.tw/) 
  * **2017 [Conference presentation](https://drive.google.com/file/d/1ZAXL8MgYhmEE68rrB5j7C42p5C3Sw9Fl/view) on [PRAGMA34](http://www.pragma-grid.net/pragma34/) & [CENTRA3](http://www.globalcentra.org/centra3/) at Tokyo**
@@ -27,7 +32,8 @@
 | Web| PHP, MySQL | [Room Booking System](https://github.com/AilurusUmbra/RoomBooking) |
 
 ## Courses I take
-<!--* [大一 ~ 大三](https://drive.google.com/open?id=1G8DoCVXINVcS0xQNEzHtcc3qZAV6e_58)-->
+* GPA 3.96/4.0 (4.17/4.3)
+* [大一 ~ 大三(含排名)](https://drive.google.com/open?id=1G8DoCVXINVcS0xQNEzHtcc3qZAV6e_58)
 * [畢業成績單](https://drive.google.com/open?id=1jCp361IQA_IWuDS_xqZtDW_RfInOlAZd)
 
 ## Contact
