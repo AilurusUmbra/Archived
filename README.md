@@ -14,9 +14,12 @@
     * EEG-based BCI clinical analysis & model development
  * 2019 Parttime Internship at NCHC 🆕
     * 資料不落地、雲端都加密 supervised by 趙逢毅 (August Chao), PhD
+ * 2019 TA for [Machine Learning & its Application in Education](https://github.com/dollars9256741/5864_MLinEDU)
+ * 2019 TA for C programming
  * 2019 Summer Internship at NCHC
  * [2018 Summer Internship](https://drive.google.com/open?id=1tVOgL9xqbFJ2H9iSGo-d4oY9E-20wKqk) at [ITRI](https://www.itri.org.tw/) 
  * **2017 [Conference presentation](https://drive.google.com/file/d/1ZAXL8MgYhmEE68rrB5j7C42p5C3Sw9Fl/view) on [PRAGMA34](http://www.pragma-grid.net/pragma34/) & [CENTRA3](http://www.globalcentra.org/centra3/) at Tokyo**
+      * [Demo session](http://www.pragma-grid.net/meetings/pragma-34-presentations/)
  * 2016 TA for Linear Algebra
  * 2016 TA for Introduction to Computers and Programming
 
