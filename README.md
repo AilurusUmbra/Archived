@@ -2,9 +2,11 @@
 <h3 align="right"> https://bit.ly/ysliucv <br>
 <img align="right" width="100" height="100" src="https://github.com/AilurusUmbra/Archived/blob/master/entry.png">
 
+![](2020_chi_CV.jpg)
+
 
 ## Education
-交通大學 資訊科學與工程研究所 @ mpc lab (2019 ~ ) <br>
+交通大學 資訊科學與工程研究所 @ mpc lab (2019 ~ 2021) <br>
 交通大學 資訊工程學系 (2015 to 2019)<br>
 <!--Bachelor at NCTU CS (2015 to 2019)-->
 
